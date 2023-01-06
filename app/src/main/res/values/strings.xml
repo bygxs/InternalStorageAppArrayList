@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InternalStorageAppArrayList</string>
+    <string name="name">Enter Message</string>
+    <string name="enter_your_message_here">Enter your message here</string>
+    <string name="save_to_internal_strorage">Save to Internal Strorage</string>
+    <string name="read_display_from_internal_storage">Read Display from Internal Storage</string>
+</resources>
