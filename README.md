@@ -7,3 +7,6 @@ same EditText field.
 but i want to implemnet FileWriter and FileReader by making a 
 Directory folder and saving files in separate individual folders.
 
+I followed this tutorial to accomplish  this
+https://vid.priv.au/watch?v=Yyc9VGedd_o
+
